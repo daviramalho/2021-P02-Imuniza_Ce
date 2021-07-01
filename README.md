@@ -1,12 +1,40 @@
 2021-Bootcamp-DS2-Alura-P02-Imuniza_Ce
 ==============================
 
-Projeto desenvolva 2021.
+Rascunho do Projeto de conclusão do módulo 02 do Bootcamp Alura, realizado em 2021.
 
 Project Organization
 ------------
+- SUMÁRIO
+    - Vínculo às subpartes do Markdown.
 
-Teste de atualização do README.
+- RESUMO
+
+- Bases de dados
+    - Vínculo aos notebooks.
+
+- INTRODUÇÃO / HISTÓRICO / JUSTIFICATIVA / Contexto e suporte da bibliografia.
+
+- OBJETIVOS
+
+- MÉTODOS / ANÁLISES / HIPÓTESES
+    - Vínculo aos notebooks.
+
+- RESULTADOS ENCONTRADOS
+    - Vínculo aos notebooks.
+
+- CONCLUSÕES
+    - Vínculo aos notebooks.
+
+- REFERÊNCIAS
+
+--------
+
+Estrutura do Notebook:
+ - Import;
+ - Funções / Doc Strings;
+ - Análises;
+ - Conclusões.
 
 --------
 
