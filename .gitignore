@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# Other
+
+references
+src
