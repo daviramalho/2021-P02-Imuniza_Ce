@@ -28,6 +28,8 @@ Project Organization
 
 - REFERÊNCIAS
 
+- Principais Ferramentas Utilizadas.
+
 --------
 
 Estrutura do Notebook:
