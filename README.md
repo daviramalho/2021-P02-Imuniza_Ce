@@ -1,7 +1,7 @@
 2021-Bootcamp-DS2-Alura-P02-Imuniza_Ce
 ==============================
 
-Rascunho do Projeto de conclusão do módulo 02 do Bootcamp Alura, realizado em 2021.
+Rascunho do Projeto de conclusão do módulo 02 do Bootcamp Alura, realizado em 2021. Teste windows.
 
 Project Organization
 ------------
