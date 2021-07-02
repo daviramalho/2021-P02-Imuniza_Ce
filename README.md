@@ -17,7 +17,9 @@ Project Organization
 
 - OBJETIVOS
 
-- MÉTODOS / ANÁLISES / HIPÓTESES
+- HIPÓTESES
+
+- MÉTODOS / ANÁLISES
     - Vínculo aos notebooks.
 
 - RESULTADOS ENCONTRADOS
@@ -33,8 +35,8 @@ Project Organization
 --------
 
 Estrutura do Notebook:
- - Import;
- - Funções / Doc Strings;
+ - Import -  "1.0-dra-initial-data-exploration"
+ - Funções / Doc Strings - 
  - Análises;
  - Conclusões.
 
