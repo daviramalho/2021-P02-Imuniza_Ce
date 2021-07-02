@@ -49,3 +49,9 @@ Estrutura do Notebook:
 - [TowardDataScience - Jupyter Notebook Best Practices 2](https://towardsdatascience.com/jupyter-best-practices-that-will-save-you-a-lot-of-headaches-67e1df45e24d)
 
 - [Medium - Best practices for Data Science](https://medium.com/swlh/software-engineering-tips-and-best-practices-for-data-science-5d85dbcf87fd)
+
+- [Awesome Data Science](https://github.com/academic/awesome-datascience)
+
+- [Data Science LifeCycle Process GitHub](https://github.com/dslp/dslp)
+
+- [Data Science LifeCycle Process GitHub Template](https://github.com/dslp/dslp-repo-template)
