@@ -35,7 +35,8 @@ Project Organization
 --------
 
 Estrutura do Notebook:
- - Import -  "1.0-dra-initial-data-exploration"
+ - Import -  "2.0-dra-data-preparation"
+ - Exploração dos dados - "3.0-dra-data-exploration"
  - Funções / Doc Strings - 
  - Análises;
  - Conclusões.
